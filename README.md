@@ -14,7 +14,7 @@ A simple Blog Application using Django
     
 <h2>Additional Python Modules Required:</h2>
 <ul>
-    <li><b>Django 2.2.7 :</b> pip install Django==2.2.7</li>
+    <li><b>Django 5.2.3 :</b> pip install Django==5.2.3</li>
     <li><b>django-crispy-forms :</b> pip install django-crispy-forms</li>
     <li><b>Pillow :</b> pip install Pillow</li>
 </ul>
